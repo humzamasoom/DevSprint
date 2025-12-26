@@ -1,0 +1,65 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+!.env.example
+!**/.env.example
+
+# IDE - VSCode
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# IDE - Other
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Documentation build artifacts
+*.pdf
+*.docx
+*.tex.backup
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Python cache (if any at root)
+__pycache__/
+*.pyc
+
+# Node modules (if any at root)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Test scripts (temporary)
+*test*.py
+*generate*.py
+
+# Cursor IDE
+.cursor/
+
