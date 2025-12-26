@@ -127,24 +127,6 @@ For complete project documentation including:
 - **Backend API:** See [backend/README.md](backend/README.md)
 - **Frontend Details:** See [frontend/README.md](frontend/README.md)
 
-## Lab Requirements Compliance
-
-✅ Single Page Application (SPA)  
-✅ High interactivity (drag-and-drop Kanban)  
-✅ Business logic with CRUD operations  
-✅ Multiple actors (Team Lead, Developer)  
-✅ React components with hooks  
-✅ REST API with FastAPI  
-✅ ORM (SQLAlchemy) with Pydantic validation  
-✅ Professional CSS (TailwindCSS)  
-✅ Complete documentation  
-
-## Team Information
-
-**Project Members:**
-- [Student Name] - [Student ID]
-- [Add team members here]
-
 ## License
 
 Academic project - DevSprint Task Management System  
